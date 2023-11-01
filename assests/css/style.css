@@ -56,6 +56,7 @@ header {
 }
 
 .banner aside {
+    
     padding: 20px;
     border-radius: 7px;
     text-align: center;
@@ -203,7 +204,8 @@ header {
         justify-content: center;
         align-items: center;
     }
-    .feature h2{
+
+    .feature h2 {
         font-size: 25px;
     }
 
@@ -227,7 +229,8 @@ header {
         width: auto;
         padding-left: 0px !important;
     }
-    .footer{
+
+    .footer {
         margin-top: 0px;
     }
 }
@@ -260,17 +263,19 @@ header {
         height: auto;
     }
 
-    .feature{
+    .feature {
         padding: 10px;
     }
-    .about{
+
+    .about {
         margin-top: 20px;
         padding: 30px;
     }
+
     .service {
         padding: 5px;
     }
 
 }
-/* Media Query Section End */
 
+/* Media Query Section End */
